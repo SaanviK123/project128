@@ -1,0 +1,52 @@
+body{
+    font-family: Trebuchet;
+}
+#headingatop {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(46, 46, 108);
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+#playbutton {
+    width: 130px;
+    font-size: 25px;
+    background-color: white;
+}
